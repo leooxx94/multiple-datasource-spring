@@ -1,0 +1,15 @@
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/ServicesApplication.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Configuration/DbConnection.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/OracleRepo/BPRepository.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/SupaRepo/SupaRepository.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Models/BusinessPartner.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Configuration/SupaDbConfig.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/OracleRepo/ControllerRepository.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Models/SupaModel.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Model.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Configuration/OracleDbConfig.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Controller.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Models/PartnersStatiGiudizio.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Models/StatiGiudizio.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/CondizioniCommerciali.java
+/home/leonardo/Documenti/PROGETTI VSCODE/services/services/src/main/java/com/dife/services/Models/PartnersStatiGiudizioID.java
